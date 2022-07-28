@@ -112,8 +112,8 @@ Follow these steps now:
    ```
 4. Save the following in `.env`
    ```sh
-    USERNAME = 'your_twitter_username'
-    PASSWORD = 'your_twitter_password'
+    TWITTER_USERNAME = 'your_twitter_username'
+    TWITTER_PASSWORD = 'your_twitter_password'
    ```
 5. (Optionally) change the speeds to your need in `main.py`:
   ```python
